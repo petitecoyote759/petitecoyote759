@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year cyber student at the University of Warwick.<br><br>At the moment I am working on several projects, with the biggest being a game engine <br>I wanted to make for personal use, however I am trying to make it usable for anyone with<br>good documentation.<br><br>I do not support the use of AI during coding, so all of my projects are coded entirely by me.
+I am a second year cyber student at the University of Warwick.<br><br>At the moment I am working on several projects, with the biggest being a game engine <br>I wanted to make for personal use, however I am trying to make it usable for anyone with<br>good documentation.<br><br>I do not support the use of AI during coding, so all of my projects are coded entirely by me.
 
 
 ## 🌐 Socials:
